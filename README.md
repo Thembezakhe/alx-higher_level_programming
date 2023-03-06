@@ -1,1 +1,1 @@
-This are my ALX Projects in Python programming language!
+These are my ALX Projects in Python programming language!
