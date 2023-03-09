@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+import add_0.py
+
+a = 1
+b = 2
+sum = add_0.add(a, b)
+print(f"{a:d} + {b:d} = {sum:d}")
